@@ -1,0 +1,127 @@
+1.Q) Problems that we're trying to solve. (Think: Why did chatbot come into existence?)/ 
+
+  
+
+ans) A chatbot is a software application used to conduct an on-line chat conversation via text or text-to-speech, 
+
+Designed to convincingly simulate the way a human would behave as a conversational partner, chatbot systems typically require continuous tuning and testing,  
+
+it came in to exitance because of Chatbot applications streamline interactions between people and services, enhancing customer experience. At the same time, 
+
+they offer companies new opportunities to improve the customers engagement process and operational efficiency by reducing the typical cost of customer service, 
+
+Chatbots arose from a very simple request from customers - we want faster answers. With growing companies struggling to meet the demands of incoming questions,  
+
+they turned to a technology that was often seen in science fiction movies: the helpful robot assistant. 
+
+  
+
+Instant replies: Forrester has reported that 73% of customers say that valuing their time is the most important thing a company can do to retain them. 
+
+Customers absolutely love being able to help themselves, find answers quickly and get back to the rest of their lives. 
+
+  
+
+Reduce incoming volume: Every customer service team wishes they had more time in the day so they could spend more time on the things that really matter. 
+
+Using chatbots to answer simple questions frees up your agents for the sticky, difficult questions. It can also help you reduce costs as your customer base grows. 
+
+As you get more customers, your chatbots can handle more questions meaning you don’t need to hire as many agents to support the same number of customers. 
+
+  
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+  
+
+2.Q) Write the scenarios/conversations (1 example) also explain why you chose that. 
+
+  
+
+ans) enter the values as it is mentioned below in the chat box, 
+
+  
+
+bot : hello I am bot assistant support  
+
+you : hi / hello (you can type any one) 
+
+bot : hello, I am BOT-Assistant may I know your name 
+
+you : king / santosh / santy / reshma / queen (enter any name) 
+
+bot : so king may I know what you are looking for? 
+
+you : i want to order a pizza 
+
+bot : ok, thank you for your response tell me which pizza you want to order. 
+
+you : veg pizza / chicken pizza / pizza / (enter any one) 
+
+bot : okay, do you want to add extra? 
+
+you : yes  
+
+bot : okay, tell me what you want to add? 
+
+you : extra onion / extra cheese (enter any one) 
+
+bot : your order has been accepted; thank you have a nice. 
+
+  
+
+end of conversation!! 
+
+  
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+  
+
+3.Q) A Paragraph about how did you start and end the entire assignment. 
+
+   
+
+  ans) 
+
+  first, I have tried with IBM Watson assistance but I was not getting the get request and I was not able to generate the session ID , even I have tried my level best  
+
+    by going through the documentation of API's and other things but after I have tried with google Dialog flow in which I found easy to train the bot but almost I have spent  
+
+    2 days for IBM api so I want to complete it fast so I have created google API for dialogue flow and I have used express in node and next I have downloaded the file  
+
+    which have keys and id details of API form the google console developers and by logging in to dialog flow I have not trained the bot efficiently but it was good enough to give  
+
+    the response next, I have installed json files by running a command (NPM init) and installed dialog flow and some required files after that I got a reference code from git to 
+
+    get the session id and to pull the request form API's somehow, I have managed to Debug the errors by taking reference from stack overflow website and then I have connected  
+
+    with frond end which I have got form open-source files in git hub so that's how I made a chatbot web page. thank you  
+
+     
+
+     
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+  
+
+4.Q) A paragraph about yourself. 
+
+  
+
+ans) I am Santosh meaning of my name in my mother-Tongue is being always happy, I am a kind of person who loves to be in practical world and I always find some happiness in the things  
+
+    which I do. and I do have a capacity to accept problems which is patience. I am a kind of person who always want to hangout or like to travel to feel the nature.  
+
+   I do have interest on trading and I do invest frequently on crypto currencies and cooking is my part of hobbies I cook every day something which I like to eat. I am not even  
+
+   close to my idol or inspiration who is Ratan-tata but my dream is still alive. 
+
+  
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+  
+
+THANK YOU. 
