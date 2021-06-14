@@ -1,0 +1,20 @@
+{
+  "name": "okok",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "@google-cloud/dialogflow": "^3.5.0",
+    "body-parser": "^1.19.0",
+    "dialogflow": "^1.2.0",
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

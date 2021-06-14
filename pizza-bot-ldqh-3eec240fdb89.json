@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pizza-bot-ldqh",
+  "private_key_id": "3eec240fdb89d0faeed0e6bd427194f260086215",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCSf4xBoRrf2YNM\n+1EILblNl8r+S5bbUVsWB/mOn3H8HkxNPsZtg12RzZvJukvLFeMFucI/5eTbEldZ\n+cDyNYucEZpqs3V+U3fstdYrb5baPH7kXMTIja8cdKuMhbCT3zvH0tOWNhVfHgoj\nyjcK7eFgO71w40QGh67BaU842CG1k+5Wo8ppq8KpVUoKkpKiBupmAS2lsfyCviX0\nDpbCebfmy3FbDtbJ7o15ZqlA50XixLYASuVnko/i1YC1q9obTrGq7vhg5fBu4gss\ngzdGb3GDVmF2TCgnKeEEpAfOrrWB/9fgdoM1qojNRSrlFsK3I+wPb3dv7Fa/qSFD\nWNOUFT6jAgMBAAECggEABJlnhFnz94ojIqQTN7ADzMlSsKgb3NfRhcALWCxuTi1/\nVL9/SEnjAqRTW0JzhbUysufRjuL/S9doEaWTJqeCsgwlbmsi6aviLHbK+gMfV8ul\najL1ZJx6HmkVR6yczg+ol03poaIiCqHtTJFZKAku1bAacvRXmuLgnCbbu1uht0sY\n9W2XCewIpwgqyEiBllcK3vFVfx+/vyVzJRrBAekmv+ocQWkMPfC8Q60aBd43Dm4o\nQlXpwjz9vve7Pgrdh7UdHYxC2BdC9xrNcDthuXubFrGEnz1u6MUn4zijsNxSeWJS\n9IE+YvPsD+XHQEXuEcIub/lPRuGJweX1F9aDmJwRzQKBgQDOtPZmMbdzFs/ooMtF\nHIVqEQjofpw2qBhrK6ZPyh1uiLZ10M0a+OR5b/FM+yQXk41WMNgI9S5zEL0FP3Q5\nNzJeIOMvEMFURN9+JvSBhqu0Oco+h6AdDC4bUZtHeV3IL2udFVLDnQoiWzDbSrgY\nZntP0jI6uCZJYN1Hkjoubw3vvQKBgQC1bvgMn5bsFo5csPmGB1MwlCav+ZP0JwTA\nn7vQMCT17w1PNjvN+9f4/GkkaRGjj1RnRs+bSur9KQH/cLqy7F3rUKPoIEoN5zlK\no0kpul+R8277dUpqQ3mbOWhRqL1xvrpCxyIk+fLz79QXG88pw0h4IyRSSBCgYkDf\nAVvuef0d3wKBgAEbaQJtG71rDtwBGHWbTH+f7btJCk8koVTZm/9rZrLz2n5RCvgt\nAxQ/bDxsT+osaSJgCpgpsAD/wvNnPpkb2ZI1fOIApfhskgHb9Y1ICl1hvdqN4Wam\nbQzKaBl+5eivkFT8C0Bu8+HxORbDlK7Uxa5MwuYbnGDiOu0qNFORVrLFAoGAMFB4\npYPqALyQ9IX8LIDO2mTZWIsxpxas4U6oCOyJKySZerqKenPSM2+j4BpKpC+K3mWw\n6z2sDfZZndg7H2JqMDutKidPERy92O5akU4cHRWiPDwjsOB/BaLn8Lbqm9uaZiX5\nJbeZxvPamrzBEfH63mMdTPv70XnYpIoMHRlHGikCgYBMmbSlac1gkooJXHUIXFLO\nbNXYjCRYECa3xDih1LAZPFv9lYwEX0iNyiLCv/z7ZZaGx76K6zaNqlTjUzRK/K9V\npixXqfZjBpmzcP2u8Cld0uoQU+/cLI6ziO7nQ8lKtFfovm3Mohg8q6kjED7zXZfF\nWiQhvyqKyE66ikDx+4rGPg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatbot@pizza-bot-ldqh.iam.gserviceaccount.com",
+  "client_id": "111364202122540697266",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbot%40pizza-bot-ldqh.iam.gserviceaccount.com"
+}
